@@ -54,3 +54,15 @@ h4{
     width: 100%;
     border-radius: 5px;
 }
+
+#f1{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    justify-content: center;
+}
+#f1 div{
+    width: 30%;
+    background-color: rgb(8, 129, 235);
+    margin: 2%;
+}
