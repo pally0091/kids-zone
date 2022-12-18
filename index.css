@@ -60,9 +60,27 @@ h4{
     width: 70%;
     margin: auto;
     justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 #f1 div{
     width: 30%;
     background-color: rgb(8, 129, 235);
-    margin: 2%;
+    margin: auto;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    border-top: 2px solid black;
+}
+#foot-one{
+    padding: 1.5rem;
+}
+#foot-two{
+    padding: 1.5rem;
+}
+#foot-one h2{
+    font-size: xx-large;
+    text-shadow: 0.25rem 0.25rem 5px white;
 }
