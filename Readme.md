@@ -1,0 +1,1 @@
+It's a basic site model only using HTML and CSS. 
